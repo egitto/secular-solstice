@@ -23,6 +23,12 @@ content = {
     "A lament of love, pain and acceptance",
   ],
 
+  'Another_Day': [
+    "Another Day",
+    "By Tim O'Brien",
+    "A life passes on its work and its song to those who remain",
+  ],
+
   'Baby_Genie': [
     "Baby Genie",
     "By Raymond Arnold",
@@ -307,6 +313,12 @@ content = {
     "An old song of sorrow, hope and compassion",
   ],
 
+  'Hearthfire': [
+    "Hearthfire",
+    "By Ada Palmer",
+    "A Norse-mythology narrative ballad about a stranger's riddle contest revealing fire — tamed from the gods, both civilization's gift and Loki's curse — as the thing that must be guarded even as everything else is lost.",
+  ],
+
   'Her_Mysteries': [
     "Her Mysteries",
     "By Allison Lonsdale",
@@ -454,6 +466,18 @@ content = {
   'Life_Is_Too_Short_To_Fold_Underwear': [
     "Life Is Too Short To Fold Underwear",
     "By Zoe Mulford",
+  ],
+
+  'Light_One_Candle': [
+    "Light One Candle",
+    "By Peter, Paul and Mary",
+    "A Hanukkah song using the lighting of candles to call for remembering the Maccabees' sacrifice while pursuing peace rather than repeating cycles of violence.",
+  ],
+
+  'Likhos_Lullaby': [
+    "Likho's Lullaby / Bayushki Bayu",
+    "By Vixy and Tony",
+    "A lullaby, built around a traditional Russian folk lullaby, in which a mother sings her daughter through dreams of home, death, and life.",
   ],
 
   'Little_Echo': [
@@ -715,6 +739,12 @@ content = {
     "A vignette of looking into snowy woods at night",
   ],
 
+  'Sunday_After_the_War': [
+    "Sunday After the War",
+    "By Daniel Kahn",
+    "A soldier imagines the small, bittersweet rituals of finally laying down arms and grieving the dead once the war ends.",
+  ],
+
   'That_Problem_Solved': [
     "That Problem Solved",
     "By Daniel Speyer",
@@ -832,6 +862,12 @@ content = {
     "The world without us",
   ],
 
+  'There_is_a_Time': [
+    "There is a Time",
+    "By The Dillards",
+    "A folk song about the changing seasons as a metaphor for the passing phases of life and love.",
+  ],
+
   'This_Too_Shall_Pass': [
     "This Too Shall Pass",
     "By Danny Schmidt",
@@ -878,6 +914,12 @@ content = {
     "Uplift",
     "By Andrew Eigel",
     "Human progress, from stone tools to space colonies",
+  ],
+
+  'Valhalla': [
+    "Valhalla",
+    "By Leslie Fish",
+    "A filk song about a modern Norse pagan reincarnated into a Society for Creative Anachronism re-enactor who finds a taste of the afterlife he prayed for in the community he builds.",
   ],
 
   'Voicing_of_Fear': [
@@ -1297,6 +1339,12 @@ content = {
   'Gift_We_Give_Tommorow': [
     "The Gift We Give Tomorrow",
     "By Eliezer Yudkowsky and Raymond Arnold",
+    "[speech]",
+  ],
+
+  'Girl_from_the_Future': [
+    "Girl from the Future",
+    "By Emma Wilson",
     "[speech]",
   ],
 
@@ -2146,6 +2194,12 @@ content = {
     "[speech]",
   ],
 
+  'The_Well': [
+    "The Well",
+    "By Derin Edala",
+    "[speech]",
+  ],
+
   'There_Will_Always_Be_Darkness': [
     "There Will Always Be Darkness",
     "My Little Poney: Friendship Is Magic",
@@ -2207,6 +2261,12 @@ content = {
   'Underrated_Reasons_To_Be_Thankful_4': [
     "Underrated Reasons To Be Thankful (Part 4)",
     "by Dynomight",
+    "[speech]",
+  ],
+
+  'Underrated_Reasons_To_Be_Thankful_5': [
+    "Underrated Reasons To Be Thankful (Part 5)",
+    "by Dynomight (Abr. by Conifer Egitto and Emma Wilson)",
     "[speech]",
   ],
 
@@ -2463,7 +2523,7 @@ sections = [
 ];
 
 programs = [
- "Austin_2022",  "Austin_2023",  "Bay_2014",  "Bay_2015",  "Bay_2016",  "Bay_2018",  "Bay_2019",  "Bay_2022",  "Bay_2023",  "Bay_Outdoor_2016",  "Boston_2013",  "Boston_2015",  "Boston_2016",  "Boston_2017",  "Boston_2018",  "Boston_2019",  "Boston_2022",  "Boston_2023",  "Boston_2024",  "Childrens_Version",  "Frankfurt_2017",  "Frankfurt_2018",  "Frankfurt_2019",  "Miami_2022",  "Miami_2022_options",  "Montreal_2024",  "Montreal_2025",  "NYC_2011",  "NYC_2015",  "NYC_2016",  "NYC_2017",  "NYC_2018",  "NYC_2019",  "NYC_2021",  "NYC_2022",  "NYC_2023",  "NYC_2024",  "NYC_2025",  "North_America_2020",  "Portland_2022",  "Seattle_2017",  "Small_DC_2020",  "Washington_DC_2015",  "Washington_DC_2019",  "Washington_DC_2021",  "Washington_DC_2022",  "Washington_DC_2023",
+ "Austin_2022",  "Austin_2023",  "Bay_2014",  "Bay_2015",  "Bay_2016",  "Bay_2018",  "Bay_2019",  "Bay_2022",  "Bay_2023",  "Bay_Outdoor_2016",  "Boston_2013",  "Boston_2015",  "Boston_2016",  "Boston_2017",  "Boston_2018",  "Boston_2019",  "Boston_2022",  "Boston_2023",  "Boston_2024",  "Chicago_2023",  "Chicago_2024",  "Childrens_Version",  "Frankfurt_2017",  "Frankfurt_2018",  "Frankfurt_2019",  "Miami_2022",  "Miami_2022_options",  "Montreal_2024",  "Montreal_2025",  "NYC_2011",  "NYC_2015",  "NYC_2016",  "NYC_2017",  "NYC_2018",  "NYC_2019",  "NYC_2021",  "NYC_2022",  "NYC_2023",  "NYC_2024",  "NYC_2025",  "North_America_2020",  "Portland_2022",  "Seattle_2017",  "Small_DC_2020",  "Washington_DC_2015",  "Washington_DC_2019",  "Washington_DC_2021",  "Washington_DC_2022",  "Washington_DC_2023",
 ];
 
 taglines = {
