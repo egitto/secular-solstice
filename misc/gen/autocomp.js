@@ -1421,12 +1421,6 @@ content = {
     "[speech]",
   ],
 
-  'Interlude_Chicago_2024': [
-    "Interlude",
-    "By Emma Wilson and Conifer Egitto",
-    "[speech]",
-  ],
-
   'Interlude_Night': [
     "Interlude: Night",
     "By Anna Tchetchetkine",
@@ -2068,9 +2062,9 @@ content = {
     "[speech]",
   ],
 
-  'Underrated_Reasons_To_Be_Thankful_Abridged': [
-    "Underrated Reasons to be Thankful",
-    "By Dynomight (Abridged by Conifer Egitto and Emma Wilson)",
+  'Underrated_Reasons_To_Be_Thankful_5': [
+    "Underrated Reasons To Be Thankful (Part 5)",
+    "by Dynomight (Abr. by Conifer Egitto and Emma Wilson)",
     "[speech]",
   ],
 
