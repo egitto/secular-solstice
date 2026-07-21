@@ -1,3 +1,7 @@
-FILES_TO_LIST=
+PREFIX=Christmas_in_the_Trenches-
+FILES_TO_LIST=lyrics.txt
+
+gen/${PREFIX}lyrics.txt: lyrics.txt
+	cp lyrics.txt gen/${PREFIX}lyrics.txt
 
 include ../Makefile.common
